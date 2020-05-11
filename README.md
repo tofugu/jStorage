@@ -1,3 +1,5 @@
+This is a fork of [jStorage](https://github.com/andris9/jStorage)
+
 ## NB!
 
 > This project is in a frozen state. No more API changes. Pull requests for bug fixes are welcomed, anything else gets most probably ignored. A bug is something that breaks the application, outdated package file is not a bug.
